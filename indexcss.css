@@ -115,7 +115,7 @@ form a{
 #foot{
     min-width: 400px;
     background-color: #fafafa;
-    height: 150px;
+    height: 120px;
     width: 100%;
     padding-top: 10px;
     font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
@@ -136,8 +136,11 @@ form a{
 .footerdivs a{
     text-decoration: none;
     color: #8e8e8e;
-    
+    margin: 7px;
+    line-height: 2;
 }
+
+
 #lastdiv{
     color: #8e8e8e;
     margin-top: 25px;
@@ -150,6 +153,8 @@ form a{
     font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
     margin-top: 6px;
 }
+
+
 
 
 
