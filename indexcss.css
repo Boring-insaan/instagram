@@ -43,7 +43,7 @@
 
 #login{
     color: white;
-    margin-top: 28px;
+    margin-top: 18px;
     width: 244px;
     background-color: #0095f6;
     padding: 5px;
@@ -130,7 +130,7 @@ form a{
     margin-top: 5px;
     margin-bottom: 5px;
     text-align: center;
-
+    
 }
 
 .footerdivs a{
@@ -144,6 +144,12 @@ form a{
     
 }
 
+#error{
+    color: #ed4956;
+    font-size: 14px;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    margin-top: 6px;
+}
 
 
 
